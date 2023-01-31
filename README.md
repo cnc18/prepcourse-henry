@@ -1,2 +1,1 @@
-# prepcourse-henry
-mi primer repo
+Este es un ejemplo de crear un repositorio en github
